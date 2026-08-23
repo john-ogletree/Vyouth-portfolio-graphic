@@ -5,7 +5,7 @@ Official graphic asset repository for the **Vyouth** brand logo portfolio piece.
 ---
 
 ## Preview
-![Vyouth Portfolio Logo](./Vyouth portfolio logo.png)
+![Vyouth Portfolio Logo](./Vyouth%20portfolio%20logo.png)
 
 ---
 
